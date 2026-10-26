@@ -1,5 +1,5 @@
-## Hi I'm @RodrigoLopes25! 👋
-- 🌱 I’m currently learning
+# Hi I'm @RodrigoLopes25! 👋
+# 🌱 I’m currently learning
 <!--
 **RodrigoLopes25/RodrigoLopes25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

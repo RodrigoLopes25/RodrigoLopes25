@@ -1,8 +1,9 @@
 # Hi I'm @RodrigoLopes25! 👋
-# 🌱 I’m currently learning
+#🌱 I’m currently learning ...
 #💻 Developer in progress 
 #🚀 Always learning and building new projects 
 #🌱 Turning ideas into code.
+
 <!--
 **RodrigoLopes25/RodrigoLopes25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
